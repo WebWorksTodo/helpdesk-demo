@@ -1,7 +1,8 @@
 # Help Desk Management System Demo
 
 A modern help desk management system built with Vue.js 3, demonstrating real-world application development skills and best practices.
-🌟 Features
+
+## 🌟 Features
 
 - Authentication System - Secure login functionality
 - Dashboard Overview - Real-time statistics and ticket monitoring
