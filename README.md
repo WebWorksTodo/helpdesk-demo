@@ -54,15 +54,17 @@ Password: demo
 
 ## 📁 Project Structure
 
-`src/`
-`├── assets/          # Static assets`
-`├── components/      # Reusable Vue components`
-`│   ├── common/      # Shared components`
-`│   └── dashboard/   # Dashboard-specific components`
-`├── router/          # Vue Router configuration`
-`├── store/           # State management`
-`├── views/           # Page components`
-`└── services/        # API services`
+```
+src/
+├── assets/          # Static assets
+├── components/      # Reusable Vue components
+│   ├── common/      # Shared components
+│   └── dashboard/   # Dashboard-specific components
+├── router/          # Vue Router configuration
+├── store/           # State management
+├── views/           # Page components
+└── services/        # API services
+```
 
 ## 🎯 Key Components
 
